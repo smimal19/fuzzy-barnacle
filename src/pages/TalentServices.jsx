@@ -52,9 +52,9 @@ function TalentServices() {
           <div className="section-grid">
             <div className="creative-content">
               <h2>Creative Artist Management</h2>
-              <a href="https://www.rarecreatives.com/" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ background: '#fff', color: '#000' }}>
+              <Link to="/consulting" className="btn-primary" style={{ background: '#fff', color: '#000' }}>
                 LEARN MORE
-              </a>
+              </Link>
             </div>
             <div className="creative-images">
               {/* INSERT YOUR CREATIVE TALENT IMAGES HERE */}

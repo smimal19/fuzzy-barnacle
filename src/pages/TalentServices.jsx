@@ -17,16 +17,6 @@ function TalentServices() {
       {/* What We Offer */}
       <section className="services-section">
         <div className="large-wrapper">
-          <div className="services-infographic">
-            <div className="services-grid">
-              <div className="service-item">Branding</div>
-              <div className="service-item">Branded Collaborations</div>
-              <div className="service-item" style={{ paddingLeft: '80px' }}>Content Strategy</div>
-              <div className="service-item">Strategic Brand Partnerships</div>
-              <div className="service-item" style={{ paddingLeft: '60px', gridColumn: '1 / -1', textAlign: 'center' }}>Social Media Growth</div>
-            </div>
-          </div>
-
           <div className="talent-images-row">
             {/* INSERT YOUR TALENT IMAGES HERE */}
             <img src="" alt="Talent" />

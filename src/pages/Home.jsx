@@ -6,9 +6,10 @@ function Home() {
       {/* Hero Section */}
       <section className="hero-section">
         <div className="hero-image-wrapper">
+          {/* INSERT YOUR HERO IMAGE HERE */}
           <img
-            src="https://rare.global/wp-content/uploads/2025/09/Jenn-Rare.png"
-            alt="Rare Global Hero"
+            src=""
+            alt="Hero"
           />
           <div className="hero-logo-overlay">rare &bull;</div>
         </div>
@@ -22,9 +23,10 @@ function Home() {
         <div className="large-wrapper">
           <div className="section-grid">
             <div>
+              {/* INSERT YOUR "OUR TALENT" IMAGE HERE */}
               <img
                 className="section-image"
-                src="https://rare.global/wp-content/uploads/2022/10/Morgan-Website.jpg"
+                src=""
                 alt="Our Talent"
               />
             </div>
@@ -42,10 +44,11 @@ function Home() {
         <div className="large-wrapper">
           <div className="section-grid reverse">
             <div>
+              {/* INSERT YOUR "OUR BRANDS" IMAGE HERE */}
               <img
                 className="section-image"
-                src="https://rare.global/wp-content/uploads/2022/09/03_Image.jpg"
-                alt="Two hands holding a bottle of Sireni's beauty mask, Overnight Overhaul."
+                src=""
+                alt="Our Brands"
               />
             </div>
             <div className="section-content">
@@ -62,10 +65,11 @@ function Home() {
         <div className="large-wrapper">
           <div className="section-grid">
             <div>
+              {/* INSERT YOUR "OUR FOUNDATION" IMAGE HERE */}
               <img
                 className="section-image"
-                src="https://rare.global/wp-content/uploads/2022/10/rarefoundation-homepage.png"
-                alt="Walkway to the stage of the Be Rare Foundation event."
+                src=""
+                alt="Our Foundation"
               />
             </div>
             <div className="section-content foundation-content">

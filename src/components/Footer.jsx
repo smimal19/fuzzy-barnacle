@@ -18,10 +18,6 @@ function Footer() {
             <h4 style={{ marginTop: '30px' }}>Contact</h4>
             <Link to="/">Contact Us</Link>
           </div>
-          <div className="footer-col">
-            <h4>Talent</h4>
-            <Link to="/influencers">Explore Talent</Link>
-          </div>
         </div>
         <div className="footer-bottom">
           <div>

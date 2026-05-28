@@ -1,5 +1,5 @@
 function Marquee() {
-  const text = 'RISE AND RULE EVERYDAY '
+  const text = 'NETWORKING WORKSHOPS MENTORSHIP CREATOR RESOURCES COLLABORATION '
   const repeated = Array(20).fill(text).join('')
 
   return (

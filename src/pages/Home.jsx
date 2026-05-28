@@ -14,7 +14,7 @@ function Home() {
           <div className="hero-logo-overlay">milana soleil &bull;</div>
         </div>
         <div className="large-wrapper">
-          <h1 className="hero-heading">WE BUILD DIGITAL TALENT INTO GLOBAL BRANDS</h1>
+          <h1 className="hero-heading">POSITIONING INDEPENDENT ENTERTAINERS AND CREATORS INTO STRUCTURED PROFESSIONALS</h1>
         </div>
       </section>
 

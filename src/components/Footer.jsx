@@ -6,10 +6,10 @@ function Footer() {
       <div className="large-wrapper" style={{ position: 'relative' }}>
         <div className="footer-grid">
           <div className="footer-col">
-            <h4>Rare Global</h4>
+            <h4>Milana Soleil</h4>
             <Link to="/">About</Link>
             <Link to="/talent-services">Talent Services</Link>
-            <Link to="/">Rare Brands</Link>
+            <Link to="/">Milana Soleil Brands</Link>
             <Link to="/">Press</Link>
             <Link to="/">Foundation</Link>
           </div>
@@ -35,7 +35,7 @@ function Footer() {
         <div className="footer-bottom">
           <div>
             <p className="copyright">
-              &copy; 2026 RARE GLOBAL ALL RIGHTS RESERVED. SITE BY{' '}
+              &copy; 2026 MILANA SOLEIL ALL RIGHTS RESERVED. SITE BY{' '}
               <a href="http://www.untitledera.com" target="_blank" rel="noopener noreferrer">UNTITLED ERA</a>
             </p>
             <div className="footer-legal" style={{ marginTop: '10px' }}>

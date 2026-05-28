@@ -11,7 +11,7 @@ function Home() {
             src=""
             alt="Hero"
           />
-          <div className="hero-logo-overlay">rare &bull;</div>
+          <div className="hero-logo-overlay">milana soleil &bull;</div>
         </div>
         <div className="large-wrapper">
           <h1 className="hero-heading">WE BUILD DIGITAL TALENT INTO GLOBAL BRANDS</h1>
@@ -135,7 +135,7 @@ function Home() {
           <h2>Press</h2>
           <div className="press-carousel">
             <div className="press-item">
-              <p className="quote">"With a laser focus on multicultural female voices and a commitment to long-term success, Rare Global has proven that authenticity is the key to building lasting influence."</p>
+              <p className="quote">"With a laser focus on multicultural female voices and a commitment to long-term success, Milana Soleil has proven that authenticity is the key to building lasting influence."</p>
             </div>
             <div className="press-item">
               <p className="quote">"Once you're crowned a 'Chanel-Clad Tennis WAG,' you're officially in the tennis discourse."</p>

@@ -37,13 +37,13 @@ function TalentServices() {
             />
             <img
               src="https://rare.global/wp-content/uploads/2022/08/final-1-800x1197.jpg"
-              alt="Rare global influencer client"
+              alt="Milana Soleil influencer client"
             />
           </div>
 
           <div className="track-record-text">
             <p>
-              Rare Global has a proven track record in growing marquee talent into top-earning, international brands.
+              Milana Soleil has a proven track record in growing marquee talent into top-earning, international brands.
             </p>
           </div>
         </div>

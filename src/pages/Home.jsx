@@ -60,51 +60,6 @@ function Home() {
         </div>
       </section>
 
-      {/* The Latest Section */}
-      <section className="latest-section">
-        <div className="large-wrapper">
-          <h2>The Latest</h2>
-          <div className="latest-grid">
-            <a href="https://thehouse-magazine.com/summertime-ins-outs-with-the-houses-tastemakers/" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Summertime 'Ins & Outs' with The House's Tastemakers</p>
-            </a>
-            <a href="https://www.glossy.co/pop/michelle-phan-on-transitioning-from-influencer-to-entrepreneur-trust-your-instincts-and-learn-from-failure/" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Michelle Phan and Chloe Morello lead round table discussions at Glossy Beauty Pop Summit</p>
-            </a>
-            <a href="https://www.instagram.com/p/CqTSDnfJqBt/?hl=en" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Jessica Vu unveils Fenty's Icon Velvet Liquid Lipstick</p>
-            </a>
-            <a href="https://www.elle.com.au/fashion/morgan-riddle-interview/" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Morgan Riddle Conquered Men's Tennis – What's Next?</p>
-            </a>
-            <a href="https://www.instagram.com/p/CqY1aIuvU4f/?img_index=1" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Ashley Villa featured in Success Magazine</p>
-            </a>
-            <a href="https://www.instagram.com/p/Cv7sdctNy-r/?hl=en" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Jenn Im launches The Stone Blue Collection with Fable</p>
-            </a>
-            <a href="https://www.instagram.com/p/CvF0RA9An50/?hl=en" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Morgan Riddle hosts "Wimbledon Threads," a mini series in partnership with Wimbledon</p>
-            </a>
-            <a href="https://www.elle.com/culture/a20664107/ashley-rachel-villa-rare-global-interview/" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>Ashley Rachel Villa Thought She Had to Become a Lawyer. She Invented Her Own Career Instead.</p>
-            </a>
-            <a href="https://www.forbes.com/sites/jasondavis/2026/01/26/the-creator-economy-in-2026---the-era-of-consolidation/" target="_blank" rel="noopener noreferrer" className="latest-item">
-              <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
-              <p>The Creator Economy In 2026: The Era Of Consolidation</p>
-            </a>
-          </div>
-        </div>
-      </section>
-
       {/* Let's Talk Section */}
       <section className="cta-section">
         <div className="large-wrapper">

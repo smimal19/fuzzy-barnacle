@@ -13,14 +13,6 @@ function Footer() {
             <Link to="/consulting">Consulting</Link>
           </div>
           <div className="footer-col">
-            <h4>Socials</h4>
-            <a href="https://www.instagram.com/rareglobal/" target="_blank" rel="noopener noreferrer">Instagram</a>
-            <a href="https://www.facebook.com/RareGlobalInc/" target="_blank" rel="noopener noreferrer">Facebook</a>
-            <a href="https://www.tiktok.com/@rareglobal" target="_blank" rel="noopener noreferrer">TikTok</a>
-            <a href="https://www.pinterest.com/rare_global/" target="_blank" rel="noopener noreferrer">Pinterest</a>
-            <a href="https://www.linkedin.com/company/rare-global/" target="_blank" rel="noopener noreferrer">Linkedin</a>
-          </div>
-          <div className="footer-col">
             <h4>Consulting</h4>
             <Link to="/consulting">Learn More</Link>
             <h4 style={{ marginTop: '30px' }}>Contact</h4>
@@ -34,16 +26,8 @@ function Footer() {
         <div className="footer-bottom">
           <div>
             <p className="copyright">
-              &copy; 2026 MILANA SOLEIL ALL RIGHTS RESERVED. SITE BY{' '}
-              <a href="http://www.untitledera.com" target="_blank" rel="noopener noreferrer">UNTITLED ERA</a>
+              &copy; 2026 MILANA SOLEIL ALL RIGHTS RESERVED.
             </p>
-            <div className="footer-legal" style={{ marginTop: '10px' }}>
-              <a href="#">PRIVACY POLICY</a>
-              <span>|</span>
-              <a href="#">COOKIE POLICY</a>
-              <span>|</span>
-              <a href="#">TERMS AND CONDITIONS</a>
-            </div>
           </div>
         </div>
         <div className="footer-diamond">

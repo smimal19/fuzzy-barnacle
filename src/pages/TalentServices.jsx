@@ -6,8 +6,9 @@ function TalentServices() {
       {/* Hero */}
       <section className="hero-section">
         <div className="hero-image-wrapper">
+          {/* INSERT YOUR HERO IMAGE HERE */}
           <img
-            src="https://rare.global/wp-content/uploads/2025/09/Jonny-Marlow-Rare.png"
+            src=""
             alt="Talent Services Hero"
           />
         </div>
@@ -27,18 +28,10 @@ function TalentServices() {
           </div>
 
           <div className="talent-images-row">
-            <img
-              src="https://rare.global/wp-content/uploads/2024/05/Untitled-design-1-800x1076.png"
-              alt="Talent"
-            />
-            <img
-              src="https://rare.global/wp-content/uploads/2023/02/Isabel-Website-2-800x1001.jpg"
-              alt="Talent"
-            />
-            <img
-              src="https://rare.global/wp-content/uploads/2022/08/final-1-800x1197.jpg"
-              alt="Milana Soleil influencer client"
-            />
+            {/* INSERT YOUR TALENT IMAGES HERE */}
+            <img src="" alt="Talent" />
+            <img src="" alt="Talent" />
+            <img src="" alt="Talent" />
           </div>
 
           <div className="track-record-text">
@@ -81,14 +74,9 @@ function TalentServices() {
               </a>
             </div>
             <div className="creative-images">
-              <img
-                src="https://rare.global/wp-content/uploads/2025/09/Jonny-Marlow-Rare.png"
-                alt="Creative talent"
-              />
-              <img
-                src="https://rare.global/wp-content/uploads/2022/10/Morgan-Website.jpg"
-                alt="Creative talent"
-              />
+              {/* INSERT YOUR CREATIVE TALENT IMAGES HERE */}
+              <img src="" alt="Creative talent" />
+              <img src="" alt="Creative talent" />
             </div>
           </div>
         </div>

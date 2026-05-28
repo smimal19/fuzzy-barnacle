@@ -1,0 +1,83 @@
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+:root {
+  --font-primary: 'Satoshi', sans-serif;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray: #767676;
+  --color-light-bg: #f5f0eb;
+  --max-width: 1600px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  color: #000;
+  width: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  position: relative;
+  display: block;
+  padding-top: 143px;
+  padding-bottom: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #2b90d5;
+  color: #fff;
+  text-shadow: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-family: var(--font-primary);
+}
+
+input {
+  font-family: var(--font-primary);
+}
+
+.large-wrapper {
+  width: 95%;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+  display: block;
+  max-width: 1600px;
+}

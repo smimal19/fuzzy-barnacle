@@ -10,9 +10,7 @@ function Header() {
             <Link to="/">About</Link>
             <Link to="/talent-services">Talent Services</Link>
             <Link to="/">Milana Soleil Brands</Link>
-            <Link to="/">Press</Link>
-            <Link to="/">Foundation</Link>
-            <Link to="/">Careers</Link>
+            <Link to="/consulting">Consulting</Link>
           </nav>
         </div>
       </div>

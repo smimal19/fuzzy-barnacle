@@ -5,6 +5,7 @@ import Marquee from './components/Marquee'
 import Home from './pages/Home'
 import TalentServices from './pages/TalentServices'
 import Influencers from './pages/Influencers'
+import Consulting from './pages/Consulting'
 import './App.css'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/talent-services" element={<TalentServices />} />
           <Route path="/influencers" element={<Influencers />} />
+          <Route path="/consulting" element={<Consulting />} />
         </Routes>
       </main>
       <Footer />

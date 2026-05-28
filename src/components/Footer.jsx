@@ -10,8 +10,7 @@ function Footer() {
             <Link to="/">About</Link>
             <Link to="/talent-services">Talent Services</Link>
             <Link to="/">Milana Soleil Brands</Link>
-            <Link to="/">Press</Link>
-            <Link to="/">Foundation</Link>
+            <Link to="/consulting">Consulting</Link>
           </div>
           <div className="footer-col">
             <h4>Socials</h4>
@@ -22,8 +21,8 @@ function Footer() {
             <a href="https://www.linkedin.com/company/rare-global/" target="_blank" rel="noopener noreferrer">Linkedin</a>
           </div>
           <div className="footer-col">
-            <h4>Careers</h4>
-            <Link to="/">View open positions</Link>
+            <h4>Consulting</h4>
+            <Link to="/consulting">Learn More</Link>
             <h4 style={{ marginTop: '30px' }}>Contact</h4>
             <Link to="/">Contact Us</Link>
           </div>

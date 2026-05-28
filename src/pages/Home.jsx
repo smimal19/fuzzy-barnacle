@@ -60,30 +60,6 @@ function Home() {
         </div>
       </section>
 
-      {/* Our Foundation Section */}
-      <section className="section foundation-section">
-        <div className="large-wrapper">
-          <div className="section-grid">
-            <div>
-              {/* INSERT YOUR "OUR FOUNDATION" IMAGE HERE */}
-              <img
-                className="section-image"
-                src=""
-                alt="Our Foundation"
-              />
-            </div>
-            <div className="section-content foundation-content">
-              <h2>Our Foundation</h2>
-              <p>
-                The Be Rare Foundation is dedicated to empowering the next generation of women
-                entrepreneurs and creatives who share in our purpose of moving women forward.
-              </p>
-              <Link to="/" className="btn-primary">LEARN MORE</Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* The Latest Section */}
       <section className="latest-section">
         <div className="large-wrapper">
@@ -125,53 +101,6 @@ function Home() {
               <div style={{ width: '100%', aspectRatio: '4/3', background: '#f0f0f0' }} />
               <p>The Creator Economy In 2026: The Era Of Consolidation</p>
             </a>
-          </div>
-        </div>
-      </section>
-
-      {/* Press Section */}
-      <section className="press-section">
-        <div className="large-wrapper">
-          <h2>Press</h2>
-          <div className="press-carousel">
-            <div className="press-item">
-              <p className="quote">"With a laser focus on multicultural female voices and a commitment to long-term success, Milana Soleil has proven that authenticity is the key to building lasting influence."</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Once you're crowned a 'Chanel-Clad Tennis WAG,' you're officially in the tennis discourse."</p>
-              <span style={{ fontSize: '12px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px' }}>Vogue</span>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Don't call her merely an influencer. Danielle Carolan is one of the top content creators across a variety of categories."</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"In a way, Jenn Im is the poster babe for modern fame: she can walk through Times Square or Coachella without getting mobbed."</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Gym Tan on the magic of embracing youthfulness at 63"</p>
-              <span style={{ fontSize: '12px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px' }}>Vogue</span>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Tennis enters its WAG era: How Morgan Riddle became the sport's MVP"</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Michelle Phan was at the helm of digital influencing and helped pave the way for an entire generation of beauty creators."</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Ashley Villa is 'A Talented Woman Crafting Careers for Women'"</p>
-            </div>
-            <div className="press-item">
-              <p className="quote">"I trust Ashley Rachel Villa with my life."</p>
-              <span style={{ fontSize: '12px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px' }}>Elle</span>
-            </div>
-            <div className="press-item">
-              <p className="quote">"The new rules of Influencer marketing: It's harder than ever to get things right."</p>
-              <span style={{ fontSize: '12px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px' }}>Glossy</span>
-            </div>
-            <div className="press-item">
-              <p className="quote">"Michelle Phan Knows What Works"</p>
-              <span style={{ fontSize: '12px', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px' }}>W Magazine</span>
-            </div>
           </div>
         </div>
       </section>

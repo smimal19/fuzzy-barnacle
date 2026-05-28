@@ -82,24 +82,6 @@ function TalentServices() {
         </div>
       </section>
 
-      {/* Gallery Credits */}
-      <section className="gallery-credits">
-        <div className="large-wrapper">
-          <div className="gallery-grid">
-            {galleryItems.map((item, index) => (
-              <div className="gallery-item" key={index}>
-                <div style={{ width: '100%', height: '100%', background: '#e0e0e0' }} />
-                <div className="overlay">
-                  <p className="celeb">{item.celeb}</p>
-                  <p className="pub">{item.pub}</p>
-                  <p className="artist">{item.artist} — {item.role}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
       {/* Let's Talk */}
       <section className="cta-section">
         <div className="large-wrapper">
@@ -111,24 +93,5 @@ function TalentServices() {
     </>
   )
 }
-
-const galleryItems = [
-  { celeb: 'Meg Thee Stallion', pub: "Glamour Mag Cover 'Women of the Year'", artist: 'Coca Michelle', role: 'Nail Artist' },
-  { celeb: 'Doja Cat', pub: "'Say So' Music Video", artist: 'David Velasquez', role: 'Makeup Artist' },
-  { celeb: 'JLo', pub: 'NYT Magazine', artist: 'David Velasquez', role: 'Makeup Artist' },
-  { celeb: 'Grimes', pub: "'Player of Games'", artist: 'Preston Wada', role: 'Hairstylist' },
-  { celeb: 'Meg Thee Stallion', pub: "'Sweetest Pie' with Dua Lipa", artist: 'Coca Michelle', role: 'Nail Artist' },
-  { celeb: 'Lili Reinhart', pub: "Harper's Bazaar Vietnam Cover", artist: 'Emilynn Rose', role: 'Photographer/Director' },
-  { celeb: 'Chloe Bailey', pub: 'Billboard Awards', artist: 'David Velasquez', role: 'Makeup Artist' },
-  { celeb: 'Shanina Shaik', pub: "Harper's Bazaar Serbia Cover", artist: 'Emilynn Rose', role: 'Photographer/Director' },
-  { celeb: 'Coi Leray', pub: 'Uproxx Magazine', artist: 'Preston Wada', role: 'Hairstylist' },
-  { celeb: 'Latto', pub: 'BET Weekend', artist: 'David Velasquez', role: 'Makeup Artist' },
-  { celeb: 'Kehlani', pub: '', artist: 'Preston Wada', role: 'Hairstylist' },
-  { celeb: 'Raveena', pub: 'Gay Times Cover', artist: 'Jaime Diaz', role: 'Makeup Artist' },
-  { celeb: 'Nikita Dragun', pub: 'Interview Magazine', artist: 'Arianna Blean', role: 'Makeup Artist/Hair Stylist' },
-  { celeb: 'JLo', pub: "'In The Morning' Music Video", artist: 'David Velasquez', role: 'Makeup Artist' },
-  { celeb: 'Xtina', pub: "Harper's Bazaar Vietnam Cover", artist: 'Coca Michelle', role: 'Nail Artist' },
-  { celeb: 'JLo', pub: 'InStyle Magazine Cover', artist: 'David Velasquez', role: 'Makeup Artist' },
-]
 
 export default TalentServices

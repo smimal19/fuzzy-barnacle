@@ -51,7 +51,7 @@ function TalentServices() {
               Online personas to powerhouse brands. We deliver next-level 360 management,
               world-class expertise, and competitive strategy.
             </p>
-            <Link to="/influencers" className="btn-primary">EXPLORE TALENT</Link>
+            <Link to="/consulting" className="btn-primary">LEARN MORE</Link>
           </div>
         </div>
       </section>
@@ -62,13 +62,6 @@ function TalentServices() {
           <div className="section-grid">
             <div className="creative-content">
               <h2>Creative Artist Management</h2>
-              <p>
-                Through the Rare Creatives division, we represent a diverse portfolio of
-                creative talent in celebrity and editorial photography, makeup, hair, nails, and the
-                performing arts. Our artists work with the top names in fashion, beauty, and
-                entertainment, with features in leading editorial magazines as well as global
-                advertising and commercial campaigns.
-              </p>
               <a href="https://www.rarecreatives.com/" target="_blank" rel="noopener noreferrer" className="btn-primary" style={{ background: '#fff', color: '#000' }}>
                 LEARN MORE
               </a>

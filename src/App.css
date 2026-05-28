@@ -76,13 +76,15 @@
 }
 
 .hero-heading {
-  font-size: clamp(18px, 3.2vw, 52px);
+  font-size: clamp(14px, 2.6vw, 40px);
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: -1px;
-  padding: 50px 0 20px;
+  padding: 50px 20px 20px;
   text-align: center;
   white-space: nowrap;
+  width: 100%;
+  box-sizing: border-box;
   line-height: 1.1;
 }
 

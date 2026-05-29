@@ -3,27 +3,9 @@ import { Link } from 'react-router-dom'
 function TalentServices() {
   return (
     <>
-      {/* Hero */}
-      <section className="hero-section">
-        <div className="hero-image-wrapper">
-          {/* INSERT YOUR HERO IMAGE HERE */}
-          <img
-            src=""
-            alt="Talent Services Hero"
-          />
-        </div>
-      </section>
-
       {/* What We Offer */}
       <section className="services-section">
         <div className="large-wrapper">
-          <div className="talent-images-row">
-            {/* INSERT YOUR TALENT IMAGES HERE */}
-            <img src="" alt="Talent" />
-            <img src="" alt="Talent" />
-            <img src="" alt="Talent" />
-          </div>
-
           <div className="track-record-text">
             <p>
               Milana Soleil has a proven track record in growing marquee talent into top-earning, international brands.
@@ -55,11 +37,6 @@ function TalentServices() {
               <Link to="/consulting" className="btn-primary" style={{ background: '#fff', color: '#000' }}>
                 LEARN MORE
               </Link>
-            </div>
-            <div className="creative-images">
-              {/* INSERT YOUR CREATIVE TALENT IMAGES HERE */}
-              <img src="" alt="Creative talent" />
-              <img src="" alt="Creative talent" />
             </div>
           </div>
         </div>

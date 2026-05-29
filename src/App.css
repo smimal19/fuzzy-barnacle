@@ -1021,6 +1021,10 @@
     padding: 8px 0;
   }
 
+  .marquee-content {
+    animation: marquee 15s linear infinite;
+  }
+
   .marquee-content span {
     font-size: clamp(24px, 4vw, 36px);
   }

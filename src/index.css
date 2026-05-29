@@ -74,9 +74,9 @@ input {
 }
 
 .large-wrapper {
-  width: 95%;
+  width: 92%;
   margin: 0 auto;
-  padding: 0;
+  padding: 0 env(safe-area-inset-right) 0 env(safe-area-inset-left);
   position: relative;
   display: block;
   max-width: 1600px;

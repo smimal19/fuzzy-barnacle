@@ -150,7 +150,7 @@
 
 .marquee-content {
   display: flex;
-  animation: marquee 40s linear infinite;
+  animation: marquee 25s linear infinite;
   white-space: nowrap;
   will-change: transform;
 }

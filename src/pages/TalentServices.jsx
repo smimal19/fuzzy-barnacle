@@ -47,7 +47,7 @@ function TalentServices() {
         <div className="large-wrapper">
           <h2>Let's Talk</h2>
           <p>Looking for representation or have a question?</p>
-          <a href="mailto:malinia@milanasoleil.com" className="btn-primary">CONTACT US</a>
+          <a href="mailto:smithmalinia@gmail.com" className="btn-primary">CONTACT US</a>
         </div>
       </section>
     </>

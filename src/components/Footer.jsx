@@ -16,7 +16,7 @@ function Footer() {
             <h4>Consulting</h4>
             <Link to="/consulting">Learn More</Link>
             <h4 style={{ marginTop: '30px' }}>Contact</h4>
-            <a href="mailto:malinia@milanasoleil.com">Contact Us</a>
+            <a href="mailto:smithmalinia@gmail.com">Contact Us</a>
           </div>
         </div>
         <div className="footer-bottom">
